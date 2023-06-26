@@ -5,6 +5,8 @@
 
 -   📃 My Resume as of June 2022 - <a href = "https://drive.google.com/file/d/1MqWNVnBY64GBHtRJnBUdBLBXO6GBIarW/view?usp=sharing">Resume</a>
 
+-   📝 My research profile - <a href = "[https://www.youtube.com/channel/UCWdd0P8N_Ug6H5iSZgOykQg](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001565061)">CvLAC</a>
+
 -   🔭 I’m currently working on **ReactJS and NodeJS**
 
 -   🌱 I’m currently learning **Machine Learning and TensorFlow**
