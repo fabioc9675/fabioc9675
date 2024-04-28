@@ -3,23 +3,15 @@
  <img src="https://komarev.com/ghpvc/?username=fabioc9675" alt="fabioc9675" /> 
 <p align="center">
 
--   📃 My Resume as of June 2022 - <a href = "https://drive.google.com/file/d/1MqWNVnBY64GBHtRJnBUdBLBXO6GBIarW/view?usp=sharing">Resume</a>
-
--   📝 My research profile - <a href = "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001565061">CvLAC</a>
-
--   🔭 I’m currently working on **ReactJS and NodeJS**
-
--   🌱 I’m currently learning **Machine Learning and TensorFlow**
-
--   🤔 I’m looking for help with **MERN Stack Development**
-
--   📝 I regulary produce content on <a href = "https://www.youtube.com/channel/UCWdd0P8N_Ug6H5iSZgOykQg">Youtube</a>
-
--   ⚡ Check out my Portfolio Website <a href = "https://www.fabiancastano.com/">Here</a>
-
--   📫 How to reach me **fabioc9675@gmail.com**
-
--   ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
+- 📃 My Resume as of October 2023 - `<a href = "https://drive.google.com/file/d/1iqiiHQozQS5r-IGgyQT4B6JLib79Doo0/view?usp=sharing">`Resume `</a>`
+- 📝 My research profile - `<a href = "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001565061">`CvLAC `</a>`
+- 🔭 I’m currently working on **ReactJS and NodeJS**
+- 🌱 I’m currently learning **Machine Learning and TensorFlow**
+- 🤔 I’m looking for help with **MERN Stack Development**
+- 📝 I regulary produce content on `<a href = "https://www.youtube.com/channel/UCWdd0P8N_Ug6H5iSZgOykQg">`Youtube `</a>`
+- ⚡ Check out my Portfolio Website `<a href = "https://www.fabiancastano.com/">`Here `</a>`
+- 📫 How to reach me **fabioc9675@gmail.com**
+- ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
 
 Bioengineer (2013), MSc in Engineering (2017), and PhD in Electronics Engineering and Computer Science (2021) by the University of Antioquia (UdeA). I am currently professor in Physics department of the University of Antioquia and member of the research groups in Bioinstrumentation and Clinical Engineering and, Microelectronics and Scientific Instrumentation of the same University in Medellín, Colombia.
 
@@ -39,9 +31,7 @@ I consider myself a person with the ability to lead research and development pro
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![Swift](https://img.shields.io/badge/-Altium%20Designer-000?&logo=altiumdesigner) ![Xilinx](https://img.shields.io/badge/-Xilinx-000?&logo=xilinx)
 
-![espressif](https://img.shields.io/badge/-Espressif-000?&logo=espressif) ![autodesk](https://img.shields.io/badge/-Autodesk-000?&logo=autodesk) ![stmicroelectronics](https://img.shields.io/badge/-STMicroelectronics-000?&logo=stmicroelectronics) ![delphi](https://img.shields.io/badge/-Delphi-000?&logo=delphi) ![adobephotoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobephotoshop) ![mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql) ![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex) ![Django](https://img.shields.io/badge/-Django-000?&logo=django) 
-
- 
+![espressif](https://img.shields.io/badge/-Espressif-000?&logo=espressif) ![autodesk](https://img.shields.io/badge/-Autodesk-000?&logo=autodesk) ![stmicroelectronics](https://img.shields.io/badge/-STMicroelectronics-000?&logo=stmicroelectronics) ![delphi](https://img.shields.io/badge/-Delphi-000?&logo=delphi) ![adobephotoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobephotoshop) ![mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql) ![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex) ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 
 <!-- <a href="https://res.cloudinary.com/weknow-creators/image/upload/v1651816861/frame_meicke.png"><img align="left" alt="mana wallet" src="https://cryptologos.cc/logos/decentraland-mana-logo.svg" width="40px" ></a> -->
 
@@ -54,6 +44,6 @@ I consider myself a person with the ability to lead research and development pro
   </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabioc9675&layout=compact&hide=html&theme=jolly" alt="Fabian Castano" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabioc9675&layout=compact&hide=html&theme=jolly" alt="Fabian Castano" />     </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioc9675&layout=compact&theme=tokyonight&custom_title=Top%20Languages">  </p>
