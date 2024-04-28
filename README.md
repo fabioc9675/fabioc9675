@@ -3,13 +3,13 @@
  <img src="https://komarev.com/ghpvc/?username=fabioc9675" alt="fabioc9675" /> 
 <p align="center">
 
-- 📃 My Resume as of October 2023 - `<a href = "https://drive.google.com/file/d/1iqiiHQozQS5r-IGgyQT4B6JLib79Doo0/view?usp=sharing">`Resume `</a>`
-- 📝 My research profile - `<a href = "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001565061">`CvLAC `</a>`
+- 📃 My Resume as of October 2023 - <a href = "https://drive.google.com/file/d/1iqiiHQozQS5r-IGgyQT4B6JLib79Doo0/view?usp=sharing">Resume </a>
+- 📝 My research profile - <a href = "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001565061">CvLAC </a>
 - 🔭 I’m currently working on **ReactJS and NodeJS**
 - 🌱 I’m currently learning **Machine Learning and TensorFlow**
 - 🤔 I’m looking for help with **MERN Stack Development**
-- 📝 I regulary produce content on `<a href = "https://www.youtube.com/channel/UCWdd0P8N_Ug6H5iSZgOykQg">`Youtube `</a>`
-- ⚡ Check out my Portfolio Website `<a href = "https://www.fabiancastano.com/">`Here `</a>`
+- 📝 I regulary produce content on <a href = "https://www.youtube.com/channel/UCWdd0P8N_Ug6H5iSZgOykQg">Youtube </a>
+- ⚡ Check out my Portfolio Website <a href = "https://www.fabiancastano.com/">Here </a>
 - 📫 How to reach me **fabioc9675@gmail.com**
 - ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
 
